@@ -1,0 +1,12 @@
+
+/* Class = "UISearchBar"; placeholder = "Enter Text"; ObjectID = "IcA-hk-xTh"; */
+"IcA-hk-xTh.placeholder" = "Enter Text";
+
+/* Class = "UILabel"; text = "Please enter text on above search field"; ObjectID = "ZxW-JY-Lic"; */
+"ZxW-JY-Lic.text" = "Please enter text on above search field";
+
+/* Class = "UINavigationItem"; title = "Photo Gallery"; ObjectID = "aTS-or-x4G"; */
+"aTS-or-x4G.title" = "Photo Gallery";
+
+/* Class = "UIBarButtonItem"; title = "Change Layout"; ObjectID = "pX5-bH-cnL"; */
+"pX5-bH-cnL.title" = "Change Layout";
